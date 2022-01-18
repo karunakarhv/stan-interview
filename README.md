@@ -18,3 +18,19 @@ Could have added some more of below:
 ## What did you think of this challenge?
 
 I was a total beginner to playwright and I had to brush up the javascript syntax. I liked the challenge and learnt a lot.
+
+## How to initialize the project
+npx playwright init
+The above command helped me to lay the structure of my project.
+
+## How to run the test
+npx playwright test
+
+## Results
+Running 12 tests using 2 workers
+  12 passed (46s)
+
+To open last HTML report run:
+  npx playwright show-report
+
+Reports are under playwright-report folder - index.html
